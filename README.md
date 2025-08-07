@@ -35,3 +35,31 @@ Follow these steps to run the project locally.
 ```bash
 git clone https://github.com/PawanSinghKhnera02/E-commerce-App.git
 cd E-commerce-App
+
+
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the App
+
+```bash
+npm run dev
+```
+
+> App will run at `http://localhost:3000`
+
+---
+
+
+## 🙋‍♂️ Author
+
+Made with ❤️ by [Pawan Singh Khnera](https://www.linkedin.com/in/pawan-singh-khnera02/)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
